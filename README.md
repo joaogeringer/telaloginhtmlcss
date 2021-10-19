@@ -58,3 +58,32 @@
                     </div>
                 </body>
                 </html>
+
+
+
+
+html,body{
+    background-color: black;
+    height: 100%;
+    background-image: url("")
+}
+h1{
+    text-align: center;
+    border: slateblue;
+    padding: 0px;
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: whitesmoke;
+}
+p{
+    text-align: center;
+    padding: 0px;
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif
+    
+;
+    font-size: 15px;
+    color: slateblue;
+    
+}
